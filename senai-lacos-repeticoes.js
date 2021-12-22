@@ -15,7 +15,7 @@ console.log(contadorAluno);
  let contadorAluno = 0;
 
  while (contadorAluno <= totalAlunos) {
-     //console.log(contadorAluno);
+     console.log(contadorAluno);
     
      if (contadorAluno == 0) {
          console.log("O número atual é zero")
